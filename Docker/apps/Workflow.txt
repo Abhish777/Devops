@@ -1,3 +1,5 @@
+Initially Download XCVSrv -- An X Server for Windows -- https://sourceforge.net/projects/vcxsrv/
+
 1) docker run hello-world ( To check if docker is working fine )
 2) Move to the directory of the created app folder
 3) docker ps ( Check for running containers )
