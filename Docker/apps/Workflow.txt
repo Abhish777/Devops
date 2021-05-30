@@ -3,5 +3,5 @@ Initially Download XCVSrv -- An X Server for Windows -- https://sourceforge.net/
 1) docker run hello-world ( To check if docker is working fine )
 2) Move to the directory of the created app folder
 3) docker ps ( Check for running containers )
-4) docker build -t abiword
+4) docker build -t abiword .
 5) docker run -e DISPLAY=<Ip address> -v C:\Users\ijari:\ijari abiword
